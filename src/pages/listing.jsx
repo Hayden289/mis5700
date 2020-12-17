@@ -1,5 +1,6 @@
 import { makeStyles } from '@material-ui/core/styles';
 import watches from "../data.json";
+import ListingCard from "../components/card";
 
 const useStyles = makeStyles();
 
@@ -10,7 +11,7 @@ export function Listing(props) {
 
   return (
     <div className={classes.root}>
-      <img src={listing.img} />
+      <ListingCard watch={listing} />
     </div>
   )
 }

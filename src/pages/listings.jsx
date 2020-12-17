@@ -6,6 +6,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import InfoIcon from '@material-ui/icons/Info';
 import React from 'react';
 import watches from "../data.json";
+import ListingCard from "../components/card";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -46,22 +47,10 @@ export function Listings() {
 
   return (
     <div className={classes.root}>
-      <GridList cellHeight={380} className={classes.gridList}>
-        <GridListTile key="Subheader" cols={2} style={{ height: 'auto' }}>
-          <ListSubheader component="div">December</ListSubheader>
-        </GridListTile>
+      <GridList cellHeight="auto" className={classes.gridList}>
         {watches.products.map((tile) => (
           <GridListTile key={tile.img}>
-            <img src={tile.img} alt={tile.title} />
-            <GridListTileBar
-              title={tile.name}
-              subtitle={<span>{tile.description}</span>}
-              actionIcon={
-                <IconButton href={`/listing/${tile.id}`} aria-label={`info about ${tile.title}`} className={classes.icon}>
-                  <InfoIcon />
-                </IconButton>
-              }
-            />
+            <ListingCard watch={tile} />
           </GridListTile>
         ))}
       </GridList>
