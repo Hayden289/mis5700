@@ -7,6 +7,7 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
+import Rating from "../components/rating"
 
 const useStyles = makeStyles({
   root: {
@@ -36,6 +37,7 @@ export default function ListingCard(props) {
           <Typography variant="body2" color="textSecondary" component="p">
             {watch.description}
           </Typography>
+          <Rating rating={watch.stars} />
         </CardContent>
       </CardActionArea>
     </Card>

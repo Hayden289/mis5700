@@ -9,6 +9,8 @@ export function Listing(props) {
   const listingId = window.location.pathname.split("/").pop();
   const listing = watches.products[listingId - 1];
 
+  console.log(listing.rating)
+
   return (
     <div className={classes.root}>
       <ListingCard watch={listing} />
