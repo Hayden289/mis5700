@@ -17,10 +17,10 @@ function App() {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
-          <Route path="/listings">
+          <Route path="/mis5700/listings">
             <Listings />
           </Route>
-          <Route path="/listing">
+          <Route path="/mis5700/listing">
             <Listing />
           </Route>
         </Switch>

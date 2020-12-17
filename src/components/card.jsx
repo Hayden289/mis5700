@@ -22,7 +22,7 @@ export default function ListingCard(props) {
 
   return (
     <Card className={classes.root}>
-      <CardActionArea href={`/listing/${watch.id}`}>
+      <CardActionArea href={`/mis5700/listing/${watch.id}`}>
         <CardMedia
           component="img"
           alt="Contemplative Reptile"
