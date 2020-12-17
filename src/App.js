@@ -2,7 +2,7 @@ import './App.css';
 import { Listings } from './pages/listings';
 import { Listing } from './pages/listing';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link
@@ -17,10 +17,10 @@ function App() {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
-          <Route path="/mis5700/listings">
+          <Route path="/listings">
             <Listings />
           </Route>
-          <Route path="/mis5700/listing">
+          <Route path="/listing">
             <Listing />
           </Route>
         </Switch>
