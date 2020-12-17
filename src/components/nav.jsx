@@ -31,7 +31,7 @@ function SimpleMenu() {
 
   const handleClose = () => {
     setAnchorEl(null);
-    window.location = "/listings";
+    window.location = "#/listings";
   };
 
   return (

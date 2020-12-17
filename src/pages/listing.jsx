@@ -7,10 +7,10 @@ const useStyles = makeStyles();
 
 export function Listing(props) {
   const classes = useStyles();
-  const listingId = window.location.pathname.split("/").pop();
+  const listingId = window.location.hash.split("/").pop();
   const listing = watches.products[listingId - 1];
 
-  console.log(listing.rating)
+  console.log(window.location)
 
   return (
     <div className={classes.root}>

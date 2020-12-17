@@ -11,7 +11,7 @@ import Nav from "./components/nav";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <div>
         <Nav />
         {/* A <Switch> looks through its children <Route>s and
