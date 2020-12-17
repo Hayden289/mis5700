@@ -72,6 +72,11 @@
           "name": "Taylor",
           "title": "Land Lord is Average",
           "text": "just a normal land lord, nothing to write home about."
+        },
+        {
+          "name": "John",
+          "title": "Land Lord is fine",
+          "text": "Never really needed to contact him but seemed nice when I did talk with him."
         }
       ]
     },
@@ -87,6 +92,11 @@
           "name": "Paul",
           "title": "Pretty Good",
           "text": "This land lord is pretty cool"
+        },
+        {
+          "name": "George",
+          "title": "Took a week to come fix my sink",
+          "text": "The sprayer on my sink would get stuck sometimes and douse the kitchen with water. Took him well over a week to come replace it."
         }
       ]
     }
