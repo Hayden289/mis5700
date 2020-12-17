@@ -31,6 +31,7 @@ function SimpleMenu() {
 
   const handleClose = () => {
     setAnchorEl(null);
+    window.location = "/listings";
   };
 
   return (
@@ -45,9 +46,7 @@ function SimpleMenu() {
         open={Boolean(anchorEl)}
         onClose={handleClose}
       >
-        <MenuItem onClick={handleClose}>Profile</MenuItem>
-        <MenuItem onClick={handleClose}>My account</MenuItem>
-        <MenuItem onClick={handleClose}>Logout</MenuItem>
+        <MenuItem onClick={handleClose}>Listings</MenuItem>
       </Menu>
     </div>
   );
@@ -64,7 +63,7 @@ export default function ButtonAppBar() {
             <SimpleMenu />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            News
+            LandLordScores
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
