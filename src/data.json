@@ -9,9 +9,9 @@
       "stars": 3.5,
       "comments": [
         {
-          "name": "Some Guy",
-          "title": "This landlord is great",
-          "text": "Because I said so"
+          "name": "Bob",
+          "title": "This landlord is ok",
+          "text": "My experience with this land lord was meh."
         }
       ]
     },
@@ -24,9 +24,9 @@
       "stars": 1.6666666666666667,
       "comments": [
         {
-          "name": "Some Guy",
-          "title": "This landlord is great",
-          "text": "Because I said so"
+          "name": "Joe",
+          "title": "I DO NOT RECOMEND!!!",
+          "text": "This land Lord didn't fix my heat for THREE WEEKS 0 stars."
         }
       ]
     },
@@ -36,12 +36,12 @@
       "img": "https://images1.apartments.com/i2/adbaxqllkyYyIQYVsnACy3TNq0rhbUcg1FDyUzESrIo/102/the-factory-logan-ut-primary-photo.jpg",
       "price": 144.99,
       "id": 3,
-      "stars": 2.75,
+      "stars": 2,
       "comments": [
         {
-          "name": "Some Guy",
-          "title": "This landlord is great",
-          "text": "Because I said so"
+          "name": "Kate",
+          "title": "Security Deposit Not Returned",
+          "text": "Building and rooms are nice, but the land lord didn't return my security deposit, even though the place was spotless."
         }
       ]
     },
@@ -50,43 +50,43 @@
       "description": "140 E 2200 N, North Logan, UT 84341 – North Logan",
       "img": "https://images1.apartments.com/i2/eNfI2JCRAy_Rnq6c5gYVIxDDeTogO_ZgNht54qbJj-0/102/four-seasons-apartments-townhomes-north-logan-ut-building-photo.jpg",
       "price": 144.99,
-      "id": 3,
-      "stars": 2.75,
+      "id": 4,
+      "stars": 5,
       "comments": [
         {
-          "name": "Some Guy",
-          "title": "This landlord is great",
-          "text": "Because I said so"
+          "name": "Zoe",
+          "title": "This Landlord is Great!",
+          "text": "Easy to work with, fixed broken appliances fast, and was understanding!"
         }
       ]
     },
     {
-      "name": "The Factory",
-      "description": "870 N 600 E, Logan, UT 84321 – Adams",
-      "img": "https://images1.apartments.com/i2/adbaxqllkyYyIQYVsnACy3TNq0rhbUcg1FDyUzESrIo/102/the-factory-logan-ut-primary-photo.jpg",
+      "name": "North Pointe",
+      "description": " 1580 N 200 E, Logan, UT 84341 – Logan",
+      "img": "https://images1.apartments.com/i2/8AA5vQte9CxiaMlAejkiX7QQWv_yvjlc51f2iiyh_EE/113/north-pointe-logan-ut-primary-photo.jpg",
       "price": 144.99,
-      "id": 3,
-      "stars": 2.75,
+      "id": 5,
+      "stars": 4.5,
       "comments": [
         {
-          "name": "Some Guy",
-          "title": "This landlord is great",
-          "text": "Because I said so"
+          "name": "Taylor",
+          "title": "Land Lord is Average",
+          "text": "just a normal land lord, nothing to write home about."
         }
       ]
     },
     {
-      "name": "The Factory",
-      "description": "870 N 600 E, Logan, UT 84321 – Adams",
-      "img": "https://images1.apartments.com/i2/adbaxqllkyYyIQYVsnACy3TNq0rhbUcg1FDyUzESrIo/102/the-factory-logan-ut-primary-photo.jpg",
+      "name": "Legacy Village Apartments",
+      "description": " 1651 N 400 E, North Logan, UT 84341",
+      "img": "https://images1.apartments.com/i2/g1uJIF-Q40oEtvkss2UNozklsd1R6Wci8Fg9DVvyi1k/113/legacy-village-apartments-north-logan-ut-primary-photo.jpg",
       "price": 144.99,
-      "id": 3,
-      "stars": 2.75,
+      "id": 6,
+      "stars": 3.5,
       "comments": [
         {
-          "name": "Some Guy",
-          "title": "This landlord is great",
-          "text": "Because I said so"
+          "name": "Paul",
+          "title": "Pretty Good",
+          "text": "This land lord is pretty cool"
         }
       ]
     }
