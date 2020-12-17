@@ -6,7 +6,14 @@
       "img": "https://images1.apartments.com/i2/gfrzWB_cNUHGGnkflIzzw2aBG_seOZ57zHY6WBvcEj0/102/alpine-flats-student-apartments-logan-ut-clubhouseoffice.jpg",
       "price": 104.99,
       "id": 1,
-      "stars": 3.5
+      "stars": 3.5,
+      "comments": [
+        {
+          "name": "Some Guy",
+          "title": "This landlord is great",
+          "text": "Because I said so"
+        }
+      ]
     },
     {
       "name": "Wasatch Pointe Apartments",
@@ -14,7 +21,14 @@
       "img": "https://images1.apartments.com/i2/JA-h1SObcScSs3CniEI4miJKJnnxSSEfLqcIkHQgowo/102/wasatch-pointe-apartments-north-logan-ut-building-photo.jpg",
       "price": 174.99,
       "id": 2,
-      "stars": 1.6666666666666667
+      "stars": 1.6666666666666667,
+      "comments": [
+        {
+          "name": "Some Guy",
+          "title": "This landlord is great",
+          "text": "Because I said so"
+        }
+      ]
     },
     {
       "name": "The Factory",
@@ -22,7 +36,14 @@
       "img": "https://images1.apartments.com/i2/adbaxqllkyYyIQYVsnACy3TNq0rhbUcg1FDyUzESrIo/102/the-factory-logan-ut-primary-photo.jpg",
       "price": 144.99,
       "id": 3,
-      "stars": 2.75
+      "stars": 2.75,
+      "comments": [
+        {
+          "name": "Some Guy",
+          "title": "This landlord is great",
+          "text": "Because I said so"
+        }
+      ]
     },
     {
       "name": "Four Seasons Apartments & Townhomes",
@@ -30,7 +51,14 @@
       "img": "https://images1.apartments.com/i2/eNfI2JCRAy_Rnq6c5gYVIxDDeTogO_ZgNht54qbJj-0/102/four-seasons-apartments-townhomes-north-logan-ut-building-photo.jpg",
       "price": 144.99,
       "id": 3,
-      "stars": 2.75
+      "stars": 2.75,
+      "comments": [
+        {
+          "name": "Some Guy",
+          "title": "This landlord is great",
+          "text": "Because I said so"
+        }
+      ]
     },
     {
       "name": "The Factory",
@@ -38,7 +66,14 @@
       "img": "https://images1.apartments.com/i2/adbaxqllkyYyIQYVsnACy3TNq0rhbUcg1FDyUzESrIo/102/the-factory-logan-ut-primary-photo.jpg",
       "price": 144.99,
       "id": 3,
-      "stars": 2.75
+      "stars": 2.75,
+      "comments": [
+        {
+          "name": "Some Guy",
+          "title": "This landlord is great",
+          "text": "Because I said so"
+        }
+      ]
     },
     {
       "name": "The Factory",
@@ -46,7 +81,14 @@
       "img": "https://images1.apartments.com/i2/adbaxqllkyYyIQYVsnACy3TNq0rhbUcg1FDyUzESrIo/102/the-factory-logan-ut-primary-photo.jpg",
       "price": 144.99,
       "id": 3,
-      "stars": 2.75
+      "stars": 2.75,
+      "comments": [
+        {
+          "name": "Some Guy",
+          "title": "This landlord is great",
+          "text": "Because I said so"
+        }
+      ]
     }
   ],
   "count": 8,
